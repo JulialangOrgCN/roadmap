@@ -26,7 +26,7 @@
 ## 官媒
 
 - [首页：julialang.org.cn][0]
-- [论坛：discourse.julialang.org.cn][3]（正式域名备案中）
+- [论坛：bbs.julialang.org.cn][3]（正式域名备案中）
 - 微信公众号：待定
 - 分舵团体
   - 邮件列表：待定
