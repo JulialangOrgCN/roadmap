@@ -26,7 +26,7 @@
 ## 官媒
 
 - [首页：julialang.org.cn][0]
-- [论坛：bbs.julialang.org.cn][3]（正式域名备案中）
+- [论坛：bbs.julialang.org.cn][3]
 - 微信公众号：待定
 - 分舵团体
   - 邮件列表：待定
@@ -47,7 +47,7 @@
 [0]: http://julialang.org.cn
 [1]: https://github.com/JulialangOrgCN/julialang.org.cn/blob/master/JulialangOrgCN-Logo.png
 [2]: https://github.com/nagexiucai
-[3]: http://julia.nagexiucai.com
+[3]: http://bbs.julialang.org.cn
 [4]: https://github.com/JuliaLang/julia/tree/release-1.0/doc
 [5]: https://github.com/JulialangOrgCN/JuliaDocCN
 [6]: https://github.com/JulialangOrgCN
