@@ -35,7 +35,7 @@
 
 ### [论坛][3]发帖资格
 
-- 给[JulialangOrgCN][6]中至少两个项目打星（Star）鼓励（其中一个必须是JuliaDocCN[5]项目）；
+- 给[JulialangOrgCN][6]中至少两个项目打星（Star）鼓励（其中一个必须是[JuliaDocCN][5]项目）；
 - 创建自己的[JuliaDocCN][5]项目仓库（Fork）并按照[翻译贡献须知][7]成功提交PR至少一次；
 - 有任何足以证明Julia经验的项目。
 
